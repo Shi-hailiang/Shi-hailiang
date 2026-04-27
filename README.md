@@ -1,4 +1,4 @@
-# 🌸 Hi ~ I'm Shi-hailiang
+# 🌸 Hi ~ I'm ShiYe
 
 <div>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
@@ -20,7 +20,7 @@
 
 ## ABOUT ME
 - 🏫 北京联合大学 & CS (2026届)
-- 📖 学习方向：AI Agent 拓展 / 大模型应用
+- 📖 学习方向：AI Agent / Java / python
 - 🎯 求职意向：2026届校招 - Agent开发
 - 📮 联系方式：全平台：ShiYe
 - 🌟 欢迎各位朋友/前辈交流学习心得和技术实践！
