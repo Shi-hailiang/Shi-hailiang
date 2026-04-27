@@ -2,27 +2,18 @@
 
 <div>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/MyBatis-3776AB?style=flat-square&logo=mybatis&logoColor=white">
-    <img src="https://img.shields.io/badge/Netty-CC2927?style=flat-square&logo=netty&logoColor=white">
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+    <img src="https://img.shields.io/badge/LangGraph-0099CC?style=flat-square&logo=langchain&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-    <img src="https://img.shields.io/badge/RocketMQ-007396?style=flat-square&logo=apache-rocketmq&logoColor=white">
-    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white">
-    <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white">
-    <img src="https://img.shields.io/badge/Nacos-ED7333?style=flat-square&logo=alibaba&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 </div>
 
 ---
@@ -45,7 +36,7 @@
 
 ---
 
-### 📊 你的 GitHub 数据卡片
+### 📊  GitHub 数据卡片
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Shi-hailiang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shi-hailiang&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e">
