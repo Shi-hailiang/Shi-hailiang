@@ -19,7 +19,7 @@
 ---
 
 ## ABOUT ME
-- 🏫 北京联合大学 & CS (2026届)
+- 🏫 BUU & CS (2026届)
 - 📖 学习方向：AI Agent / Java / python
 - 🎯 求职意向：2026届校招 - Agent开发
 - 📮 联系方式：全平台：ShiYe
