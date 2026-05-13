@@ -1,4 +1,4 @@
-# 🌸 Hi ~ I'm ShiYe
+# 🌸 Hi ~ I'm ShiY
 
 <div>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
