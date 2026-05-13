@@ -36,15 +36,3 @@
 
 ---
 
-### 📊  GitHub 数据卡片
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shi-hailiang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shi-hailiang&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e">
-</p>
-
----
-
-### 🔥 贡献热力图
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shi-hailiang&theme=tokyonight&hide_border=true&bg_color=1e1e2e&color=70a5fd&line=70a5fd&point=70a5fd">
-</p>
